@@ -1,6 +1,8 @@
+-e .
 fastapi
 uvicorn[standard]
 gunicorn
 pandas
 requests
 beautifulsoup4
+tqdm
